@@ -1120,7 +1120,7 @@
 <tr>
 <td>1932</td>
 <td>1937</td>
-<td>Exceptional precipitation absence in northern hemisphere exacerbated by human activities<sup class="noprint Inline-Template Template-Fact">[<em><a title="Wikipedia:Citation needed" href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"><span title="This claim needs references to reliable sources. (December 2009)">citation needed</span></a></em>]</sup>&nbsp;causes the&nbsp;<a title="Dust Bowl" href="https://en.wikipedia.org/wiki/Dust_Bowl">Dust Bowl</a>&nbsp;drought of the US plains and the&nbsp;<a class="mw-redirect" title="Soviet famine of 1932-1933" href="https://en.wikipedia.org/wiki/Soviet_famine_of_1932-1933">Soviet famine of 1932-1933</a>&nbsp;(harsh economic damage in US and widespread death in USSR).</td>
+<td>Exceptional precipitation absence in northern hemisphere exacerbated by human activities causes the&nbsp;<a title="Dust Bowl" href="https://en.wikipedia.org/wiki/Dust_Bowl">Dust Bowl</a>&nbsp;drought of the US plains and the&nbsp;<a class="mw-redirect" title="Soviet famine of 1932-1933" href="https://en.wikipedia.org/wiki/Soviet_famine_of_1932-1933">Soviet famine of 1932-1933</a>&nbsp;(harsh economic damage in US and widespread death in USSR).</td>
 </tr>
 <tr>
 <td>1939</td>
