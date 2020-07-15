@@ -1,4 +1,4 @@
-<h2> Timeline of environmental history</h2>
+<h2>Timeline of environmental history </h2>
 
 <h2><span id="Pre-Holocene_(1.5_Mya)" class="mw-headline">Pre-Holocene (1.5 Mya)</span></h2>
 <table class="wikitable"><caption>&nbsp;</caption>
@@ -1205,18 +1205,14 @@
 <tr>
 <td colspan="2">2004</td>
 <td>
-<ul>
-<li><a title="2004 Indian Ocean earthquake and tsunami" href="https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami">Earthquake</a>&nbsp;causes large tsunamis in the Indian Ocean, killing nearly a quarter of a million people.</li>
-</ul>
+<p><a title="2004 Indian Ocean earthquake and tsunami" href="https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami">Earthquake</a>&nbsp;causes large tsunamis in the Indian Ocean, killing nearly a quarter of a million people.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">2005</td>
 <td>
 <div>
-<ul>
-<li>Hurricanes&nbsp;<a title="Hurricane Katrina" href="https://en.wikipedia.org/wiki/Hurricane_Katrina">Katrina</a>,&nbsp;<a title="Hurricane Rita" href="https://en.wikipedia.org/wiki/Hurricane_Rita">Rita</a>, and&nbsp;<a title="Hurricane Wilma" href="https://en.wikipedia.org/wiki/Hurricane_Wilma">Wilma</a>&nbsp;cause widespread destruction and environmental harm to coastal communities in the US Gulf Coast region, especially the New Orleans area.</li>
-</ul>
+<p>Hurricanes&nbsp;<a title="Hurricane Katrina" href="https://en.wikipedia.org/wiki/Hurricane_Katrina">Katrina</a>,&nbsp;<a title="Hurricane Rita" href="https://en.wikipedia.org/wiki/Hurricane_Rita">Rita</a>, and&nbsp;<a title="Hurricane Wilma" href="https://en.wikipedia.org/wiki/Hurricane_Wilma">Wilma</a>&nbsp;cause widespread destruction and environmental harm to coastal communities in the US Gulf Coast region, especially the New Orleans area.</p>
 </div>
 </td>
 </tr>
@@ -1224,9 +1220,7 @@
 <td colspan="2">2008</td>
 <td>
 <div>
-<ul>
-<li><a title="Cyclone Nargis" href="https://en.wikipedia.org/wiki/Cyclone_Nargis">Cyclone Nargis</a>&nbsp;makes landfall over&nbsp;<a title="Myanmar" href="https://en.wikipedia.org/wiki/Myanmar">Myanmar</a>, causing widespread destruction and killing over 130,000 people.</li>
-</ul>
+<p><a title="Cyclone Nargis" href="https://en.wikipedia.org/wiki/Cyclone_Nargis">Cyclone Nargis</a>&nbsp;makes landfall over&nbsp;<a title="Myanmar" href="https://en.wikipedia.org/wiki/Myanmar">Myanmar</a>, causing widespread destruction and killing over 130,000 people.</p>
 </div>
 </td>
 </tr>
@@ -1259,9 +1253,7 @@
 <td colspan="2">2012</td>
 <td>
 <div>
-<ul>
-<li><a title="Hurricane Sandy" href="https://en.wikipedia.org/wiki/Hurricane_Sandy">Hurricane Sandy</a>&nbsp;devastates the eastern third of North America, from&nbsp;<a title="Florida" href="https://en.wikipedia.org/wiki/Florida">Florida</a>&nbsp;to&nbsp;<a title="Quebec" href="https://en.wikipedia.org/wiki/Quebec">Quebec</a>, and from&nbsp;<a title="Michigan" href="https://en.wikipedia.org/wiki/Michigan">Michigan</a>&nbsp;to&nbsp;<a title="Nova Scotia" href="https://en.wikipedia.org/wiki/Nova_Scotia">Nova Scotia</a>, as the largest&nbsp;<a class="mw-redirect" title="North Atlantic tropical cyclone" href="https://en.wikipedia.org/wiki/North_Atlantic_tropical_cyclone">Atlantic basin hurricane</a>&nbsp;in history.</li>
-</ul>
+<p><a title="Hurricane Sandy" href="https://en.wikipedia.org/wiki/Hurricane_Sandy">Hurricane Sandy</a>&nbsp;devastates the eastern third of North America, from&nbsp;<a title="Florida" href="https://en.wikipedia.org/wiki/Florida">Florida</a>&nbsp;to&nbsp;<a title="Quebec" href="https://en.wikipedia.org/wiki/Quebec">Quebec</a>, and from&nbsp;<a title="Michigan" href="https://en.wikipedia.org/wiki/Michigan">Michigan</a>&nbsp;to&nbsp;<a title="Nova Scotia" href="https://en.wikipedia.org/wiki/Nova_Scotia">Nova Scotia</a>, as the largest&nbsp;<a class="mw-redirect" title="North Atlantic tropical cyclone" href="https://en.wikipedia.org/wiki/North_Atlantic_tropical_cyclone">Atlantic basin hurricane</a>&nbsp;in history.</p>
 </div>
 </td>
 </tr>
@@ -1281,9 +1273,7 @@
 <td colspan="2">2015</td>
 <td>
 <div>
-<ul>
-<li>A global&nbsp;<a class="mw-redirect" title="Climate change" href="https://en.wikipedia.org/wiki/Climate_change">climate change</a>&nbsp;pact is&nbsp;<a title="Paris Agreement" href="https://en.wikipedia.org/wiki/Paris_Agreement">agreed</a>&nbsp;at&nbsp;<a title="2015 United Nations Climate Change Conference" href="https://en.wikipedia.org/wiki/2015_United_Nations_Climate_Change_Conference">the COP 21 summit</a>, committing all countries to reduce&nbsp;<a class="mw-redirect" title="Carbon emissions" href="https://en.wikipedia.org/wiki/Carbon_emissions">carbon emissions</a>&nbsp;for the first time.</li>
-</ul>
+<p>A global&nbsp;<a class="mw-redirect" title="Climate change" href="https://en.wikipedia.org/wiki/Climate_change">climate change</a>&nbsp;pact is&nbsp;<a title="Paris Agreement" href="https://en.wikipedia.org/wiki/Paris_Agreement">agreed</a>&nbsp;at&nbsp;<a title="2015 United Nations Climate Change Conference" href="https://en.wikipedia.org/wiki/2015_United_Nations_Climate_Change_Conference">the COP 21 summit</a>, committing all countries to reduce&nbsp;<a class="mw-redirect" title="Carbon emissions" href="https://en.wikipedia.org/wiki/Carbon_emissions">carbon emissions</a>&nbsp;for the first time.</p>
 </div>
 </td>
 </tr>
@@ -1291,9 +1281,7 @@
 <td colspan="2">2016</td>
 <td>
 <div>
-<ul>
-<li>150 nations meeting at the&nbsp;<a class="mw-redirect" title="UNEP" href="https://en.wikipedia.org/wiki/UNEP">UNEP</a>&nbsp;summit in Rwanda agree to phase out hydrofluorocarbons (HFCs), as an extension to the&nbsp;<a title="Montreal Protocol" href="https://en.wikipedia.org/wiki/Montreal_Protocol">Montreal Protocol</a>.</li>
-</ul>
+<p>150 nations meeting at the&nbsp;<a class="mw-redirect" title="UNEP" href="https://en.wikipedia.org/wiki/UNEP">UNEP</a>&nbsp;summit in Rwanda agree to phase out hydrofluorocarbons (HFCs), as an extension to the&nbsp;<a title="Montreal Protocol" href="https://en.wikipedia.org/wiki/Montreal_Protocol">Montreal Protocol</a>.</p>
 </div>
 </td>
 </tr>
